@@ -4,4 +4,4 @@ def combinatoria2(set,num_combinaciones):
     lista_referencia = []    
     for elemento in referencias:
         lista_referencias.append(elemento)  
-    print (lista_referencias)
+    print (lista_referencia)
